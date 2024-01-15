@@ -4,7 +4,12 @@
 
 ## Project Description
 
-With the help of LangChain, this project aims to demonstrate how we can use the power of LLMs like ChatGPT to perform classic NLP tasks like sentiment analysis.
+This project aims to demonstrate how we can use the power of LLMs like ChatGPT to perform classic NLP tasks like sentiment analysis.
+
+## Data
+
+The data was downloaded from Kaggle.
+https://www.kaggle.com/competitions/sentiment-analysis-on-movie-reviews/data?select=test.tsv.zip
 
 ## Usage
 
@@ -12,7 +17,6 @@ Written in Python 3.9.9. Some technologies used:
 
 - Jupyter Notebook
 - OpenAI
-- LangChain
 
 ## Meta
 

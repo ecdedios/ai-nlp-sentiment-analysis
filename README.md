@@ -9,6 +9,7 @@ This project aims to demonstrate how we can use the power of LLMs like ChatGPT t
 ## Data
 
 The data was downloaded from Kaggle.
+
 https://www.kaggle.com/competitions/sentiment-analysis-on-movie-reviews/data?select=test.tsv.zip
 
 ## Usage

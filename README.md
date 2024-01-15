@@ -19,6 +19,8 @@ Written in Python 3.9.9. Some technologies used:
 - Jupyter Notebook
 - OpenAI
 
+To see the project in action, open and run the notebooks.
+
 ## Meta
 
 Ednalyn C. De Dios – [@ecdedios](https://github.com/ecdedios)

@@ -1,6 +1,6 @@
 # Perform Sentiment Analysis Using AI
 
-> Part of a series regarding the use of LLMs to perform classic NLP tasks.
+> Part of a series exploring the use of LLMs to perform classic NLP tasks.
 
 ## Project Description
 

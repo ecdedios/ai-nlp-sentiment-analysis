@@ -4,7 +4,7 @@
 
 ## Project Description
 
-With the help of LangChain, this project aims to demonstrate how we can use the power of LLMs like ChatGPT to perform classic NLP tasks like sentiment analysis.
+This project aims to demonstrate how we can use the power of LLMs like ChatGPT to perform classic NLP tasks like sentiment analysis.
 
 ## Data
 
@@ -18,7 +18,6 @@ Written in Python 3.9.9. Some technologies used:
 
 - Jupyter Notebook
 - OpenAI
-- LangChain
 
 To see the project in action, open and run the notebooks.
 
